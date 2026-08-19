@@ -12,7 +12,7 @@ natural scene images as input to both systems.
 1. **Network–brain similarity.** Can a neural network predict the neural
    representations evoked by these images in mouse visual cortex, and how
    does the similarity between network and brain representations vary
-   across visual cortical areas (`LGN`, `VISp`, `VISrl`, `VISam`) and
+   across visual cortical areas (`LGd`, `VISp`, `VISrl`, `VISam`) and
    cortical depths?
 
 2. **Semantic selectivity.** Do mouse visual cortical representations
