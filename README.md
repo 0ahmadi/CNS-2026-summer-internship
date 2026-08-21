@@ -1,8 +1,8 @@
 This project investigates whether artificial neural networks can serve as
-computational models of mouse visual cortex. Using the **Allen Institute
-Neuropixels Visual Behavior dataset** — in which mice view natural images
+computational models of mouse visual cortex. Using the Allen Institute
+Neuropixels Visual Behavior dataset in which mice view natural images
 and decide whether to lick in response, while extracellular
-electrophysiology records population activity across visual brain areas —
+electrophysiology records population activity across visual brain areas
 we compare internal representations from a deep neural network to neural
 representations recorded from the mouse brain, using the same set of
 natural scene images as input to both systems.
